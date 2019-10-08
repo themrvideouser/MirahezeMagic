@@ -678,3 +678,10 @@ second feature change
 first master change
 master #1
 master #2
+
+rebase
+master #1
+
+feature #1
+feature #2
+master #2
