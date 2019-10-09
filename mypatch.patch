@@ -1,0 +1,10 @@
+diff --git a/LICENSE b/LICENSE
+index 5e9987e..bd26e7b 100644
+--- a/LICENSE
++++ b/LICENSE
+@@ -697,3 +697,5 @@ tag4
+ tag5
+ 
+ wichtiger patch 1
++
++patch änderung 2
